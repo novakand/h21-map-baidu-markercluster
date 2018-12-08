@@ -3,9 +3,9 @@
 
 ## Installation
 ```bash
-npm i h21-map-infobox-baidu
+npm i h21-map-markercluster-baidu
 ```
 ### How to use
 ```bash
-import { MarkerCluster } from 'h21-map-markercluster-baidu';
+import { MarkerCluster } from 'h21-map-markercluster-baidu'
 ```
