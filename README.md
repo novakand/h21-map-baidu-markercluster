@@ -1,11 +1,11 @@
 
-# h21-map-markercluster-baidu
+# @h21-map/markercluster-baidu
 
-## Installation
+### Installation
 ```bash
-npm i h21-map-markercluster-baidu
+npm i @h21-map/markercluster-baidu
 ```
 ### How to use
 ```bash
-import { MarkerCluster } from 'h21-map-markercluster-baidu'
+import { MarkerCluster } from '@h21-map/markercluster-baidu'
 ```
